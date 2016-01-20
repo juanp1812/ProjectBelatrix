@@ -1,0 +1,15 @@
+C:\Users\Martin\Downloads\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe
+C:\Users\Martin\Downloads\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.pdb
+C:\Users\Martin\Downloads\Belatrix\Belatrix\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.exe
+C:\Users\Martin\Downloads\Belatrix\Belatrix\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.pdb
+C:\Users\Martin\Downloads\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe.config
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe.config
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.exe
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.pdb
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.pdb
+D:\JP\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe.config
+D:\JP\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.exe
+D:\JP\BelatrixTest\BelatrixTest\obj\x86\Debug\BelatrixTest.pdb
+D:\JP\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe
+D:\JP\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.pdb

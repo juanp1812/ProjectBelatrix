@@ -1,0 +1,14 @@
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixUnitTest.dll
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixUnitTest.pdb
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixTest.exe
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixTest.pdb
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.csprojResolveAssemblyReference.cache
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.dll
+D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.pdb
+D:\JP\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixUnitTest.dll
+D:\JP\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixUnitTest.pdb
+D:\JP\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixTest.exe
+D:\JP\BelatrixTest\BelatrixUnitTest\bin\Debug\BelatrixTest.pdb
+D:\JP\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.csprojResolveAssemblyReference.cache
+D:\JP\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.dll
+D:\JP\BelatrixTest\BelatrixUnitTest\obj\Debug\BelatrixUnitTest.pdb

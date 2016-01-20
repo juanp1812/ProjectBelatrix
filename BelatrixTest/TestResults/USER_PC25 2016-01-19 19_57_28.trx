@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f30ebc62-ceca-4bec-b80d-391391da05bf" name="USER@PC25 2016-01-19 19:57:28" runUser="PC25\USER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2fc050ba-1d64-4c41-800b-5557b3e0ac37">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="USER_PC25 2016-01-19 19_57_28">
+      <DeploymentItem filename="D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixTest\bin\Debug\BelatrixTest.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-01-19T19:57:28.0969846-05:00" queuing="2016-01-19T19:57:28.9080310-05:00" start="2016-01-19T19:57:28.9460332-05:00" finish="2016-01-19T19:57:29.4570624-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SetLogTest" storage="d:\jp\test\belatrix\belatrix\belatrixtest\belatrixunittest\bin\debug\belatrixunittest.dll" id="715202f9-89b7-42d3-060c-ca3d507e10a8">
+      <Execution id="dad9ddd4-c514-406c-b9a8-ac31c75faded" />
+      <TestMethod codeBase="D:/JP/Test/Belatrix/Belatrix/BelatrixTest/BelatrixUnitTest/bin/Debug/BelatrixUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BelatrixUnitTest.JobLoggerTest, BelatrixUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetLogTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="715202f9-89b7-42d3-060c-ca3d507e10a8" executionId="dad9ddd4-c514-406c-b9a8-ac31c75faded" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dad9ddd4-c514-406c-b9a8-ac31c75faded" testId="715202f9-89b7-42d3-060c-ca3d507e10a8" testName="SetLogTest" computerName="PC25" duration="00:00:00.0899475" startTime="2016-01-19T19:57:28.9710346-05:00" endTime="2016-01-19T19:57:29.3390557-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dad9ddd4-c514-406c-b9a8-ac31c75faded">
+      <Output>
+        <StdOut>2016-01-19 - []:</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;False&gt;. Actual:&lt;True&gt;. </Message>
+          <StackTrace>   at BelatrixUnitTest.JobLoggerTest.SetLogTest() in D:\JP\Test\Belatrix\Belatrix\BelatrixTest\BelatrixUnitTest\JobLoggerTest.cs:line 84
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

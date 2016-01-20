@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="16A048C8-B994-49E8-B1A5-AB4AD17E4E0B" ModuleId="BelatrixTest" />
+  <Module PersistentId="3F175653-D5DB-4900-91BE-68756B2099AE" ModuleId="BelatrixUnitTest" />
+</Modules>
